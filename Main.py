@@ -21,6 +21,8 @@ class Queue:
 
   def dequeue(self) -> None:
     # Write your code here
+    if front==rear:
+      
 
   def status(self) -> None:
     # Write your code here
