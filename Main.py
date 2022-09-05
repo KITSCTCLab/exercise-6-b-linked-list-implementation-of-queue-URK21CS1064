@@ -17,7 +17,6 @@ class Queue:
 
   def status(self) -> None:
     # Write your code here
-    okocjsjdcjdsjcjjfrjnvkjknv jkdnjnjdkfnjkgjkuihfhirfriuer
 
 # Do not change the following code
 queue = Queue()
